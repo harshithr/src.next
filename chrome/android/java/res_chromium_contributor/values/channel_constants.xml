@@ -5,9 +5,9 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- The application name displayed to the user. -->
-    <string name="app_name" translatable="false">Wiki Browser (unofficial)</string>
-    <string name="bookmark_widget_title" translatable="false">Wiki Browser bookmarks</string>
-    <string name="search_widget_title" translatable="false">Wiki Browser search</string>
-    <string name="quick_action_search_widget_title" translatable="false">Wiki Browser quick action search</string>
-    <string name="dino_widget_title" translatable="false">Wiki Browser bird</string>
+    <string name="app_name" translatable="false">Devbol Browser (unofficial)</string>
+    <string name="bookmark_widget_title" translatable="false">Devbol Browser bookmarks</string>
+    <string name="search_widget_title" translatable="false">Devbol Browser search</string>
+    <string name="quick_action_search_widget_title" translatable="false">Devbol Browser quick action search</string>
+    <string name="dino_widget_title" translatable="false">Devbol Browser bird</string>
 </resources>
